@@ -1,9 +1,9 @@
 <!-- Profile README — Ariela in STEM -->
 <p align="center">
-  <img src="https://github.com/arielainstem.png" width="100" style="border-radius:50%" alt="Ariela Israel Avatar"/>
+  <img src="https://github.com/chanayaw.png" width="100" style="border-radius:50%" alt="Chanaya Wheeler Avatar"/>
 </p>
 
-<h1 align="center">👋🏾 Hi, I’m Ariela</h1>
+<h1 align="center">👋🏾 Hi, I’m Chanaya</h1>
 <p align="center">
 💻 <strong>Women’s Health Data & Equity Technologist</strong> · 📊 <strong>Software Engineer & Research Translator</strong>  
 🌿 <strong>Building an independent Women’s Health Data Lab</strong>
@@ -67,9 +67,9 @@ All work is exploratory, transparent, and ethically grounded.
 ### 💌 Let’s Connect  
 
 🌐 **Website:** https://arielainstem.com  
-🧪 **Substack:** Ariela in STEM — Women’s Health Data Lab  
-💼 **LinkedIn:** https://linkedin.com/in/ariela-israel  
-💻 **GitHub:** https://github.com/arielainstem  
+🧪 **Substack:** Chanaya W — Women’s Health Data Lab  
+💼 **LinkedIn:** https://linkedin.com/in/chanaya-wheeler  
+💻 **GitHub:** https://github.com/chanayaw  
 
 ---
 
