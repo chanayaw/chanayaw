@@ -29,7 +29,7 @@ This is not medical care — it is **evidence, context, and clarity**.
 
 ### 🔬 What This Lab Does  
 
-The **Ariela in STEM — Women’s Health Data Lab** exists to:
+The **Chanaya W — Women’s Health Data Lab** exists to:
 
 - analyze large public health datasets (CDC, NIH, etc.)
 - document disparities in women’s health
