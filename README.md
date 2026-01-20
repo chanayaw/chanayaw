@@ -66,7 +66,7 @@ All work is exploratory, transparent, and ethically grounded.
 
 ### 💌 Let’s Connect  
 
-🌐 **Website:** https://arielainstem.com  
+🌐 **Website:** https://chanayaw.com  
 🧪 **Substack:** Chanaya W — Women’s Health Data Lab  
 💼 **LinkedIn:** https://linkedin.com/in/chanaya-wheeler  
 💻 **GitHub:** https://github.com/chanayaw  
