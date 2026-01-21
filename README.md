@@ -1,86 +1,74 @@
-<!-- Profile README — Ariela in STEM -->
+<!-- Profile README — Chanaya W -->
+
 <p align="center">
-  <img src="https://github.com/chanayaw.png" width="100" style="border-radius:50%" alt="Chanaya Wheeler Avatar"/>
+  <img src="https://github.com/chanayaw.png" width="96" style="border-radius:50%" alt="Chanaya W Avatar"/>
 </p>
 
-<h1 align="center">👋🏾 Hi, I’m Chanaya</h1>
-<p align="center">
-💻 <strong>Women’s Health Data & Equity Technologist</strong> · 📊 <strong>Software Engineer & Research Translator</strong>  
-🌿 <strong>Building an independent Women’s Health Data Lab</strong>
-</p>
-
----
-
-### 🧬 About Me  
-
-I run an independent **Women’s Health Data Lab** that uses **public datasets, reproducible analysis, and plain-language reporting** to make women’s health inequities visible.
-
-My work focuses on how **data, health systems, and structural bias** shape outcomes for women across:
-PCOS · endometriosis · pregnancy · postpartum mental health · menopause · metabolic health · and more.
-
-I specialize in:
-- turning messy health data into clear insight  
-- documenting methods and limitations transparently  
-- and translating research so women, advocates, and organizations can actually use it.
-
-This is not medical care — it is **evidence, context, and clarity**.
-
----
-
-### 🔬 What This Lab Does  
-
-The **Chanaya W — Women’s Health Data Lab** exists to:
-
-- analyze large public health datasets (CDC, NIH, etc.)
-- document disparities in women’s health
-- publish reproducible notebooks and charts
-- and share plain-language research through essays and video
-
-All work is exploratory, transparent, and ethically grounded.
-
----
-
-### 🧠 How I Work  
-
-- 📊 Python · pandas · Jupyter  
-- 🗂 CDC, NIH, NHANES, NSFG, and other public datasets  
-- 🧾 Explicit assumptions and documented limitations  
-- 🔍 Equity-centered analysis  
-- ♻️ Reproducible, open research workflows  
-
----
-
-### 🌱 Where I Publish  
-
-| 🌐 Platform | Purpose |
-|--------------|----------|
-| **Website** | Research hub · Lab notes · Public reports |
-| **Substack** | Essays · data stories · research releases |
-| **LinkedIn** | Professional writing on women’s health & data |
-| **YouTube** | Plain-language data explainers | coming soon!
-| **Instagram** | Charts, visuals, behind-the-scenes | coming soom!
-| **Threads** | Research notes & mini-threads | coing soon!
-| **GitHub** | This open lab: notebooks, charts, methods |
-
----
-
-### 💌 Let’s Connect  
-
-🌐 **Website:** https://chanayaw.com  
-🧪 **Substack:** Chanaya W — Women’s Health Data Lab  
-💼 **LinkedIn:** https://linkedin.com/in/chanaya-wheeler  
-💻 **GitHub:** https://github.com/chanayaw  
-
----
+<h1 align="center">Hi, I’m Chanaya W</h1>
 
 <p align="center">
-✨ <em>“Making women visible in the data — and making the data make sense.”</em> ✨  
+<strong>Software Engineer</strong> · <strong>Women’s Health Data & Equity Technologist</strong> · <strong>Research Translator</strong><br/>
+Building research-driven systems that make women’s health disparities visible and actionable.
 </p>
 
 ---
 
+## About
+
+I am a software engineer focused on building data driven systems, research tooling, and technical infrastructure that support clarity, reproducibility, and ethical data practice.
+
+My work sits at the intersection of engineering, applied research, and research translation. I am particularly interested in how technical systems shape what becomes measurable, interpretable, and actionable in women’s health across the lifespan.
+
+This GitHub documents my engineering projects, research-adjacent tools, and exploratory work. Projects are presented as representative systems with explicit assumptions, constraints, and limitations.
+
+---
+
+## Focus Areas
+
+- women’s health equity across the lifespan  
+- research-adjacent software systems  
+- data ingestion, validation, and normalization  
+- scheduling, operational, and internal tools  
+- transparency, documentation, and reproducibility  
+
+This is not medical care. It is technical infrastructure, analysis, and translation.
+
+---
+
+## How I Work
+
+- Software engineering with an emphasis on system design and data integrity  
+- Clear documentation of tradeoffs and limitations  
+- Responsible use of public datasets and external APIs  
+- Separation of exploratory work from production claims  
+- Preference for clarity over cleverness  
+
+---
+
+## Technical Stack
+
+- **Languages:** TypeScript, JavaScript, Python  
+- **Frontend:** React, Next.js, Tailwind CSS  
+- **Backend:** Node.js, Express, REST APIs  
+- **Data:** PostgreSQL, Prisma, pandas  
+- **Tooling:** Git, GitHub, Docker (basics), Jupyter  
+- **Practices:** validation, accessibility, reproducibility, documentation  
+
+---
+
+## Where This Work Lives
+
+- **Website:** https://chanayaw.com  
+  Engineering systems, case studies, lab notes  
+- **GitHub:** this profile  
+  Source code, notebooks, methods  
+- **LinkedIn:** https://linkedin.com/in/chanaya-wheeler  
+  Professional writing and updates  
+
+Additional publishing platforms are in progress.
+
+---
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Women’s%20Health%20Equity-8b5cf6?style=for-the-badge" alt="Women's Health Equity Badge"/>
-  <img src="https://img.shields.io/badge/Method-Data%20·%20Research%20·%20Reproducibility-10b981?style=for-the-badge" alt="Data Research Badge"/>
-  <img src="https://img.shields.io/badge/Approach-Open%20Science%20·%20Clarity-6366f1?style=for-the-badge" alt="Open Science Badge"/>
+<em>Designing systems that make disparities measurable, interpretable, and accountable.</em>
 </p>
